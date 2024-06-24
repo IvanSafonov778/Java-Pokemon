@@ -1,10 +1,11 @@
-![Logo](images/logo.webp)
 # Java Pokemon Game
+<p align="center">
 ![Java](https://img.shields.io/badge/java-22.0.1-orange)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2024.1-blue)
 ![Maven](https://img.shields.io/badge/Maven-3.9.2-green)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Version](https://img.shields.io/badge/version-1.0-blue)
+    </p>
 ## Description
 The "Pokemon" game in Java is a console application where you can play against the computer, as explained below:
 
