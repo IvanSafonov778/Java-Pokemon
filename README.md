@@ -40,24 +40,6 @@ Example of using the game:
 5. See the attack result and wait for the next turn.
 6. The game continues until one of the Pokemon is defeated.
 
-## Contributing
-If you would like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your changes:
-    ```bash
-    git checkout -b feature-branch
-    ```
-3. Make your changes and commit them:
-    ```bash
-    git commit -m "Add some feature"
-    ```
-4. Push your changes to GitHub:
-    ```bash
-    git push origin feature-branch
-    ```
-5. Create a Pull Request for your changes to be reviewed.
-
 ## License
 This project is distributed under a free license.
 
