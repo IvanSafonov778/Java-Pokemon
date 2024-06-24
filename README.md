@@ -5,9 +5,9 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ## Description
-The "Pokemon" game in Java is a console application where you can play against the computer.
+The "Pokemon" game in Java is a console application where you can play against the computer, as explained below:
 
-## Features
+## Rules
 - At the beginning of the game, the user can choose a Pokemon by specifying the serial number or name, which will be selected for battle.
 - Display the characteristics and possible attacks of the chosen Pokemon on the console.
 - The computer randomly selects an opponent Pokemon.
