@@ -1,3 +1,4 @@
+![Logo](images/logo.webp)
 # Java Pokemon Game
 ![Java](https://img.shields.io/badge/java-22.0.1-orange)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2024.1-blue)
