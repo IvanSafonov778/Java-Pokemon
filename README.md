@@ -1,5 +1,5 @@
 # Java Pokemon Game
-
+![Java](https://img.shields.io/badge/java-11-orange)
 ## Description
 The "Pokemon" game in Java is a console application where you can play against the computer.
 
