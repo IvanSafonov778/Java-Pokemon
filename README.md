@@ -18,7 +18,7 @@ To install and run the project, follow these steps:
 1. Ensure you have [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [Maven 4.0.0](https://maven.apache.org/) installed.
 2. Clone the repository:
     ```bash
-    git clone [https://github.com/IvanSafonov778/Java-Pokemon/]
+    git clone https://github.com/IvanSafonov778/Java-Pokemon/
     ```
 3. Open the project in IntelliJ IDEA.
 4. Import the project as a Maven project.
@@ -58,4 +58,4 @@ If you would like to contribute to the project, please follow these steps:
 This project is distributed under a free license.
 
 ## Contact
-If you have any questions or suggestions, please contact us at: [nerdgoes21@gmail.com].
+If you have any questions or suggestions, please contact us at: nerdgoes21@gmail.com.
