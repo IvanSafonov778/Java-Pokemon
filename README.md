@@ -53,4 +53,4 @@ This project is distributed under a free license.
 ![Game Screenshot](images/3.jpg)
 
 ## Contact
-If you have any questions or suggestions, please contact us at: nerdgoes21@gmail.com.
+If you have any questions or suggestions, please contact us at: isafonov778@gmail.com.
